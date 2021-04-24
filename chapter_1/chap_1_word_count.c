@@ -1,3 +1,5 @@
+/* Count the number of words in the input*/
+
 #include<stdio.h>
 
 #define IN 1
